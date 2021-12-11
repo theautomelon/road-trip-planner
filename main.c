@@ -1,13 +1,5 @@
 #include <stdio.h>
-// TODO create header file
-// create a .h header file to contain our functions
-// labels: optimization
-// assignees: austinblackmon, theautomelon
-
-//functions
-int adder(int x, int y){
-    return x+y;
-}
+#include "header.h"
 
 int main(){
     int num1;
